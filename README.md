@@ -617,7 +617,7 @@ nothing to commit, working tree clean
 
 
 
-#Numéro 5:
+# Numéro 5:
 *   2b3685e (HEAD -> main, origin/main, origin/HEAD) resolv conflict
 |\
 | * cafe1d8 changements couleur principale
