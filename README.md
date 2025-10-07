@@ -1,4 +1,4 @@
-#Numéro 1
+# Numéro 1:
 
 diff.astextplain.textconv=astextplain
 filter.lfs.clean=git-lfs clean -- %f
@@ -552,7 +552,7 @@ branch.feature/add-colors.vscode-merge-base=origin/main
 
 
 
-2:
+# Numéro 2:
  feature/add-colors
 * main
 
@@ -563,7 +563,7 @@ branch.feature/add-colors.vscode-merge-base=origin/main
 
 
 
-3:
+# Numéro 3:
 2b3685e (HEAD -> main, origin/main, origin/HEAD) resolv conflict
 cafe1d8 changements couleur principale
 b6b06cf Merge branch 'main' of https://github.com/Nic0ttine/Site-val
@@ -602,7 +602,7 @@ c9efae8 (tag: v0.1) premier commit
 
 
 
-4:
+# Numéro 4:
 On branch main
 Your branch is up to date with 'origin/main'.
 
@@ -617,7 +617,7 @@ nothing to commit, working tree clean
 
 
 
-5:
+#Numéro 5:
 *   2b3685e (HEAD -> main, origin/main, origin/HEAD) resolv conflict
 |\
 | * cafe1d8 changements couleur principale
