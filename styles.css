@@ -113,7 +113,7 @@ code {
 
 /* En-tête principal avec dégradé et arrondis */
 .hero {
-    background: linear-gradient(140deg, #ff02c8 0%, #36012b 55%, #000000 100%);
+    background: linear-gradient(140deg, #eb6e55 0%, #e84e31 55%, #3f2e00 100%);
     border-bottom-left-radius: var(--radius-xl);
     border-bottom-right-radius: var(--radius-xl);
     color: #ffffff;
